@@ -21,7 +21,7 @@
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/kinda-ar-whiteboard.git
+git clone https://github.com/CoderAmbar/kinda-ar-whiteboard.git
 cd kinda-ar-whiteboard
 
 text
